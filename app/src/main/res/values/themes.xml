@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<resources>-->
+
+<!--&lt;!&ndash;    <style name="Theme.Stepattendanceapp" parent="android:Theme.Material.Light.NoActionBar" />&ndash;&gt;-->
+<!--    <style name="Base.Theme.StepAttendanceApp" parent="Theme.MaterialComponents.DayNight.NoActionBar"/>-->
+
+<!--</resources>-->
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.StepAttendanceApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    </style>
+</resources>
